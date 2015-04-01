@@ -27,5 +27,4 @@ win32:
   deploymsvc: '1'
 extensions:
 - rhoconnect-client
-app_type: rhoelements
 capabilities: []
